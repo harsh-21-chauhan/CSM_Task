@@ -1,6 +1,6 @@
-**CSM Localization**
+## **CSM Localization**
 
-**Problem Statement**
+## **Problem Statement**
 
 **Task**  
 Implement Correlative Scan Matching (CSM) for 2D LiDAR-based robot localization by studying and reproducing the method described in the paper:
